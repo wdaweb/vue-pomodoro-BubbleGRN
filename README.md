@@ -44,4 +44,4 @@
 
 ## 作業連結
 
-- [GitHub](https://bubblegrn.github.io/pomodoro/#/)
+- [GitHub](https://github.com/BubbleGRN/pomodoro)
